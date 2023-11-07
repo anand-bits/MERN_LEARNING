@@ -1,0 +1,15 @@
+Model contain the structure of Database schema.
+
+
+
+Controller contain the logic of the application.
+Controller contains the  function like create user , delete user ....>
+From controller everything will go for routes.
+And Routes will be Talk with app.js.
+
+
+
+
+config contain the connection.
+
+Routes--->
